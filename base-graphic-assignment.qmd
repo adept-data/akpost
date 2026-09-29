@@ -1,3 +1,8 @@
+---
+Title: "Base Graphic Assignment"
+Date: 2026-09-29
+format: pdf
+---
 ### Assignment 1: Five Base Graphic Charts
 
 Use any data of your choice to produce five different R Base Graphic Charts 

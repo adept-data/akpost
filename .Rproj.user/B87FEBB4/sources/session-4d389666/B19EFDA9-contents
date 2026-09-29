@@ -1,3 +1,16 @@
+---
+Title: "Base Graphic Assignment"
+Date: 2026-09-29
+format:
+  pdf: default
+  html:
+    code-fold: true
+    code-summary: "Show/Hide Code"
+    toc: true
+    toc-location: left
+    toc-depth: 2
+---
+
 ### Assignment 1: Five Base Graphic Charts
 
 Use any data of your choice to produce five different R Base Graphic Charts 
