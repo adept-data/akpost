@@ -1,0 +1,4 @@
+[1,"==> quarto preview base-graphic-assignment.qmd --to default --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: base-graphic-assignment.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\Users\\User\\AppData\\Local\\Programs\\Quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  \n"]
+[1,"Output created: base-graphic-assignment.html\n\nWatching files for changes\n"]
+[1,"Browse at http://localhost:6953/\nListening on http://127.0.0.1:6953/\n"]
